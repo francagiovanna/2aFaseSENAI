@@ -2,3 +2,7 @@
     background-color: rgb(152, 56, 144);
     min-height: calc(100vh - 70px);
 }
+
+.imagem-corpo{
+    height: 200px;
+}
