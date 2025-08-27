@@ -1,0 +1,24 @@
+.corpo-container{
+    background-color: #e6e6e6;
+    min-height: calc(100vh - 70px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Poppins", sans-serif;
+}
+
+.imagem-corpo{
+    height: 200px;
+}
+
+.imagem-branding {
+    display: flex;
+    gap: 20px;         
+    margin-top: 20px;    
+}
+  
+.imagem-branding img {
+    height: 150px;
+    border-radius: 8px;  
+}
