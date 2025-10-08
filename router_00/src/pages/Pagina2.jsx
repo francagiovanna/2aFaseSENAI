@@ -1,0 +1,12 @@
+import React from 'react'
+
+function Pagina2() {
+  return (
+    <div>
+         <Navbar />
+        Pagina2
+    </div>
+  )
+}
+
+export default Pagina2

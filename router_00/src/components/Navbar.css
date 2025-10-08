@@ -1,0 +1,10 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.navbar a{              /*p tirar o linkzin da navbar ali*/
+    text-decoration: none;
+}
